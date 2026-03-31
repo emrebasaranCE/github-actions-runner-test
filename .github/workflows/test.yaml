@@ -1,1 +1,2 @@
-runs-on: DESKTOP-60OLSHU
+jobs:
+    runs-on: DESKTOP-60OLSHU
